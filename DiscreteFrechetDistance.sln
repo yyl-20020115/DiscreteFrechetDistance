@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscreteFrechetDistance", "DiscreteFrechetDistance\DiscreteFrechetDistance.csproj", "{FA8552B5-8CAC-4575-B160-D7DFDC3C8F2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA8552B5-8CAC-4575-B160-D7DFDC3C8F2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA8552B5-8CAC-4575-B160-D7DFDC3C8F2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA8552B5-8CAC-4575-B160-D7DFDC3C8F2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA8552B5-8CAC-4575-B160-D7DFDC3C8F2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE1DC77D-B451-432D-82A5-372EC9204333}
+	EndGlobalSection
+EndGlobal
